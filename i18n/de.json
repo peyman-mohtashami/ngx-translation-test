@@ -1,6 +1,6 @@
 {
 	"demo": {
-		"greeting": "Hallo {{name}}!",
+		"greeting": "Hallo new {{name}}!",
 		"text": "﻿Dies ist eine einfache Applikation um die Funktionen von ngx-transalte zu demonstrieren.",
 		"title": "Übersetzungs-Demo"
 	}
