@@ -8,7 +8,7 @@
   ],
   "theme": {
     "backgroundColor": "#673ab7",
-    "primaryColor": "#ffc107",
+    "primaryColor": "#4caf50",
     "accentColor": "#ffc107",
     "colorHints": {
       "deepPurpleAndAmber": ["#ffc107","#673ab7"],
