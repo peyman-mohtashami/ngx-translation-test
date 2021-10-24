@@ -1,0 +1,20 @@
+{
+  "tempLogo": "assets/images/github-logo.svg",
+  "logo": "assets/images/radar-base-logo.svg",
+  "languages": [
+    {"lang": "en", "locale": "en-GB", "label": "English", "dateFormat": "dd/mm/yyyy"},
+    {"lang": "nl", "locale": "nl-NL", "label": "Nederlands", "dateFormat": "dd-mm-yyyy"},
+    {"lang": "en-US", "locale": "en-US", "label": "English (US)", "dateFormat": "mm/dd/yyyy"}
+  ],
+  "theme": {
+    "backgroundColor": "#673ab7",
+    "primaryColor": "#ffc107",
+    "accentColor": "#ffc107",
+    "colorHints": {
+      "deepPurpleAndAmber": ["#ffc107","#673ab7"],
+      "indigoAndPink": ["#ff4081","#3f51b5"],
+      "pinkAndBlueGrey": ["#607d8b","#e91e63"],
+      "purpleAndGreen": ["#4caf50","#9c27b0"]
+    }
+  }
+}
