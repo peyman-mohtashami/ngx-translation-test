@@ -1,6 +1,6 @@
 {
   "tempLogo": "assets/images/github-logo.svg",
-  "logo": "assets/images/radar-base-logo.svg",
+  "logo": "https://raw.githubusercontent.com/peyman-mohtashami/ngx-translation-test/main/images/github-logo.svg",
   "languages": [
     {"lang": "en", "locale": "en-GB", "label": "English", "dateFormat": "dd/mm/yyyy"},
     {"lang": "nl", "locale": "nl-NL", "label": "Nederlands", "dateFormat": "dd-mm-yyyy"},
